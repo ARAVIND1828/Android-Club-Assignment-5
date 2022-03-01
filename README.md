@@ -1,9 +1,9 @@
 # Android-Club-Assignment-5
 ## Description:
-A simple up and down counter example to demonstrate context api
-First counter increments by 1
-Second counter decrements by 1
-Third counter increments by 2
+A simple up and down counter example to demonstrate context api /n
+First counter increments by 1 /n
+Second counter decrements by 1 /n
+Third counter increments by 2 /n
 ## ScreenShots :
 ### Initial:
 ![image1](./img/img1.jpeg)
